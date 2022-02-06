@@ -1,0 +1,49 @@
+/* sectionn */
+
+.section-content {
+    margin-top: 10px;
+    text-align: center;
+    height: 250px;
+}
+.text-content {
+    padding: 15px;
+}
+.album-title {
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.section-p {
+    font-size: 20px;
+    margin-bottom: 10px;
+    padding: 16px;
+    color: #6c757d!important;
+
+}
+ 
+.btn {
+    text-decoration: none;
+}
+.btn-primary {
+    background-color: rgb(77, 77, 247);
+    color: white;
+    padding: 0.4rem;
+    font-size: 1.2rem;
+    border-radius: 0.5rem;
+}
+
+.btn-secondary {
+    background-color: #6c757d;
+    color: white;
+    padding: 0.4rem;
+    font-size: 1.2rem;
+    border-radius: 0.5rem;
+}
+
+/* container content */
+
+.container {
+    width: 100%;
+    margin: auto;
+}
