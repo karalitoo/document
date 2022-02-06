@@ -67,6 +67,7 @@
     text-align: center;
     padding: 70px;
     background-color: rgb(134, 134, 129);
+    height: 180px;
 }
 
 .col p {
@@ -75,7 +76,6 @@
 }
 .col-button {
     margin-top: 50px;
-    float: left;
     display: inline-block;
 }
  .time-text {
@@ -83,5 +83,30 @@
      margin-left: 15px;
      margin-right: 0px;
      display: inline-block;
-     float: right;
+ }
+
+ /* footer */
+
+ .footer-container {
+    background-color: rgb(225, 231, 238);
+    height: 150px;
+    padding: 48px 0 48px 0;
+ }
+
+ .ft-first-p {
+    display: inline-block;
+    font-size: 1rem;
+    color: rgb(89, 92, 94);
+    vertical-align: top;
+    padding: 8px;
+ }
+ .ft-second-p {
+    display: inline-block;
+    margin-left: 700px;
+    padding: 8px;
+ }
+
+ .ft-third-p {
+     font-size: 1.1rem;
+     padding: 8px;
  }
