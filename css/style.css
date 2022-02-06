@@ -47,3 +47,41 @@
     width: 100%;
     margin: auto;
 }
+
+.row {
+    width: 90%;
+    margin: auto;
+}
+
+.col {
+    width: 30%;
+    height: 350px;
+    display: inline-block;
+    background-color: whitesmoke;
+    text-align: center;
+    margin-top: 16px;
+    margin-left: 7px;
+    border: 1px solid rgba(132, 134, 139, 0.301);
+}
+.col-title {
+    text-align: center;
+    padding: 70px;
+    background-color: rgb(134, 134, 129);
+}
+
+.col p {
+    padding: 10px;
+    margin: 8px;
+}
+.col-button {
+    margin-top: 50px;
+    float: left;
+    display: inline-block;
+}
+ .time-text {
+     margin-top: 35px;
+     margin-left: 15px;
+     margin-right: 0px;
+     display: inline-block;
+     float: right;
+ }
