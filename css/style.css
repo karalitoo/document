@@ -1,3 +1,51 @@
+/* header    */
+header {
+    background-color: black;
+    width: 100%;
+    color:gray
+}
+
+.header-container {
+    margin: auto;
+}
+.header-about {
+    color:white;
+    font-size: 27px;
+    padding: 15px;
+    margin-left: 30px;
+}
+
+header p{
+    font-size: 15px;
+    margin-left: 30px;
+    margin-bottom: 10px;
+    
+}
+
+header a {
+    color: white;
+    display: block;
+    margin-bottom: 10px;
+}
+.left-block {
+    width: 45%;
+    display: inline-block;
+}
+
+.right-block {
+    margin-left: 10px;
+    display: inline-block;
+    vertical-align: top;
+    width: 45%;
+    text-align: center;
+}
+
+.header-contact {
+    color:white;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+
 /* sectionn */
 
 .section-content {
